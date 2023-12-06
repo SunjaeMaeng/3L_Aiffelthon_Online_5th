@@ -1,4 +1,4 @@
-## KerasNLP IMDB text classification text with Bert_Tiny, with LoRA layers
+## KerasNLP IMDB text classification task with Bert_Tiny, with LoRA layers
 
 ### Rank: 16, 32, 64
 
